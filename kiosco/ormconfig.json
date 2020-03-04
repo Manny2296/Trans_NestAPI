@@ -1,7 +1,7 @@
 {
     "type": "mysql",
     "host": "35.193.157.8",
-    "port": 3306,
+
     "username": "root",
     "password": "apr128",
     "database": "kioscobd",
