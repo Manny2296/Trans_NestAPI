@@ -1,10 +1,9 @@
 {
     "type": "mysql",
     "host": "35.193.157.8",
-
     "username": "root",
     "password": "apr128",
     "database": "kioscobd",
-    "entities": ["dist/**/**.entity{.ts,.js}"],
+    "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
   }
